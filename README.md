@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://imgur.com/a/0ha5nTs](https://imgur.com/a/0ha5nTs)" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/614476ac-43a3-428c-95bf-5416a8a9ee9c" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alench</h1>
