@@ -3,36 +3,36 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Alench</h1>
-<h3 align="center">17 y.o Student & Freelance Front-End Developer</h3>
+<h3 align="center">18 y.o College Student & Freelance Front-End Developer</h3>
 
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 A **17-year-old student** who loves technology and web development  
-- 💻 **Freelance Front-End Developer**
-- 🌱 Currently improving my skills in **modern web development**
-- 🎯 Focused on creating **clean, responsive, and user-friendly UI**
+- A **18-year-old student** who loves technology and web development  
+- **Freelance Front-End Developer**
+- Currently improving my skills in **modern web development**
+- Focused on creating **clean, responsive, and user-friendly UI**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 ### Front-End
-- ⚡ HTML5  
-- 🎨 CSS3 / Tailwind CSS  
-- 🧠 JavaScript (ES6+)  
-- ⚛️ React.js  
+- HTML5  
+- CSS3 / Tailwind CSS  
+- JavaScript (ES6+)  
+- React.js  
 
 ### Tools
-- 🧰 VS Code  
-- 🌐 Git & GitHub  
-- 🎨 Figma  
-- 📦 NPM  
+- VS Code  
+- Git & GitHub  
+- Figma  
+- NPM  
 
 ---
 
 ## 📫 Reach Me
-- 📧 Email: **endrichoalt@gmail.com**
-- 💬 Discord: **.alench**
+- Email: **endrichoalt@gmail.com**
+- Discord: **.alench**
 
 ---
 
